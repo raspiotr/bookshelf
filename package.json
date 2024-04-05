@@ -1,21 +1,21 @@
 {
-  "name": "goit-project-js-group-2",
+  "name": "bookshelf",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://gointoorbit.github.io/goit-project-js-group-2/",
+  "homepage": "https://raspiotr.github.io/bookshelf/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-project-js-group-2/"
+    "build": "parcel build src/*.html --public-url /bookshelf/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gointoorbit/goit-project-js-group-2.git"
+    "url": "git+https://github.com/raspiotr/bookshelf.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gointoorbit/goit-project-js-group-2/issues"
+    "url": "https://github.com/raspiotr/bookshelf/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
